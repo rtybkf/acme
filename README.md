@@ -7,7 +7,7 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/rtybkf/acme/master/acme.sh && bash acme.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/rtybkf/acme/master/acme1key.sh && bash acme1key.sh
 ```
 
 快捷方式 `bash acme1key.sh`
